@@ -1,3 +1,7 @@
+# This is not the repo you're looking for.  You can go about your business.  Move along.
+
+The network application has been converted to Rails.  Please join us at [Network](https://github.com/edbirmingham/network) to contribute.
+
 ## We're the Birmingham Education Foundation.
 You can call us, [Ed](http://edbirmingham.org).
 
